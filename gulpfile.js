@@ -4,7 +4,7 @@ minifyCss = require('gulp-minify-css');
 
 /* File assets */
 var source = './src/index.jade';
-var dir = './src/*.jade';
+var dir = './src/**/*.jade';
 
 var css = './src/css/*.css'
 

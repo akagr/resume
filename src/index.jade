@@ -3,12 +3,18 @@ html
   head
     meta(charset='utf-8')
     title Akash Agrawal
-
     meta(name='viewport', content='width=device-width, initial-scale=3.0, maximum-scale=3.0, user-scalable=yes')
+    link(rel="stylesheet", href="build/css/main.css")
   body
-    include ./sections/header.jade
-    include ./sections/about.jade
-    include ./sections/exp.jade
-    include ./sections/skills.jade
-    include ./sections/acheivements.jade
-    include ./sections/qualifications.jade
+    .section
+      include ./sections/header.jade
+    .section
+      include ./sections/about.jade
+    .section
+      include ./sections/exp.jade
+    .section
+      include ./sections/skills.jade
+    .section
+      include ./sections/acheivements.jade
+    .section
+      include ./sections/qualifications.jade
