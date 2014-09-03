@@ -44,3 +44,7 @@ h2 {
   margin: 2% auto;
   border-bottom: 1px dotted #ccc;
 }
+
+.section:last-of-type {
+  border-bottom: none;
+}
