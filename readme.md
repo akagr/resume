@@ -11,3 +11,5 @@ Todo
 ------------------------------
 
 Implement pdf generation by using build html and separate specialized css file.
+
+[akashagrawal.me/resume](http://akashagrawal.me/resume)
