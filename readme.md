@@ -3,7 +3,7 @@ Resume
 
 Hi!
 
-This is a modular resume based on pluggable uniform jade partials. It uses gulp to build the project and watch for changes. A nice tradeoff of this design is that a different css can be applied to same build for generation of pdf too.
+This is a modular resume based on pluggable uniform jade partials. It uses gulp to build the project and watch for changes. A nice side-effect of this design is that a different css can be applied to same build for generation of pdf too.
 
 Feel free to fork it over.
 
